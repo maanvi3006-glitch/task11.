@@ -1,0 +1,13 @@
+variable,VIF,concern
+website_traffic,22.949801954467716,True
+ad_clicks,16.82225441067315,True
+conversion_rate,11.371660112725898,True
+revenue,8.209277578651081,True
+marketing_spend,3.4794991880077006,False
+returns_pct,2.736723228233781,False
+discount_rate,2.3993394952580336,False
+support_tickets,1.6951124953318717,False
+avg_temperature_c,1.5613584044442659,False
+customer_satisfaction,1.5539078440334788,False
+churn_rate,1.2423291925551432,False
+employee_count,1.1000590031332669,False

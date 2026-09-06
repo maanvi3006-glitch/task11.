@@ -1,0 +1,11 @@
+### Data validation & cleaning report
+- Rows loaded: **736**
+- Rows after cleaning: **731**
+- Exact duplicate rows removed: **5**
+- Implausible outliers winsorised in **revenue**: 3 value(s)
+- Missing values (median-imputed, per column):
+    - revenue: 10 missing -> imputed with column median
+    - marketing_spend: 10 missing -> imputed with column median
+    - returns_pct: 10 missing -> imputed with column median
+    - customer_satisfaction: 10 missing -> imputed with column median
+    - employee_count: 2 missing -> imputed with column median
